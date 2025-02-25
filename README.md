@@ -1,3 +1,6 @@
+![Dashboard Preview](Screenshot_76.png)
+![Dashboard Preview](Screenshot_77.png)
+
 # Mobile Sales Report Dashboard
 
 ## Overview
@@ -35,11 +38,8 @@ The dataset includes:
 - Adding predictive analytics using machine learning models.
 - Enhancing UI with advanced Power BI features like bookmarks and tooltips.
 
-## Screenshots
-![Dashboard Preview](dashboard_screenshot.png)
-
 ## Author
-Developed by [Your Name] - Data Analyst | Power BI Developer
+Developed by Md. Farhan Farooq - Data Analyst | Power BI Developer
 
 ## License
 This project is licensed under the MIT License - feel free to modify and use it as needed.
